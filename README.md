@@ -16,7 +16,7 @@ This portfolio showcases my technical expertise in ANSI X12 (834/837), EDIFACT, 
 
 ## 🔗 Live Website
 
-👉 [Visit My Portfolio](https://your-portfolio-link.com)
+👉 Visit My Portfolio :
 
 ## 📄 Resume
 
