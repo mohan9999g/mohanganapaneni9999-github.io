@@ -20,12 +20,12 @@ This portfolio showcases my technical expertise in ANSI X12 (834/837), EDIFACT, 
 
 ## 📄 Resume
 
-Download my latest resume: [Mohan_Resume.pdf](./Mohan_Resume.pdf)
+Download my latest resume: https://www.linkedin.com/in/mohan-ganapaneni-b92916183/
 
 ## 📫 Contact
 
 - **Email:** mohanganapaneni9999@gmail.com
-- **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HERE](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+- **LinkedIn:** https://www.linkedin.com/in/mohan-ganapaneni-b92916183/
 - **Phone:** +1-813-590-3725
 
 ## 📁 Folder Structure
