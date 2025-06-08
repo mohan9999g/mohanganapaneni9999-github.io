@@ -1,0 +1,23 @@
+<EDI_Document>
+  <ISA>
+    <ISA_1>
+      <Element_1>00</Element_1>
+      <Element_2>          </Element_2>
+      <Element_3>00</Element_3>
+      <Element_4>          </Element_4>
+      <Element_5>01</Element_5>
+      <Element_6>SENDERID     </Element_6>
+      <Element_7>01</Element_7>
+      <Element_8>RECEIVERID   </Element_8>
+      <Element_9>230622</Element_9>
+      <Element_10>1147</Element_10>
+      <Element_11>U</Element_11>
+      <Element_12>00401</Element_12>
+      <Element_13>000000001</Element_13>
+      <Element_14>0</Element_14>
+      <Element_15>P</Element_15>
+      <Element_16></Element_16>
+    </ISA_1>
+  </ISA>
+  <!-- Other segments follow same pattern -->
+</EDI_Document>
