@@ -28,13 +28,6 @@ Download my latest resume: https://www.linkedin.com/in/mohan-ganapaneni-b9291618
 - **LinkedIn:** https://www.linkedin.com/in/mohan-ganapaneni-b92916183/
 - **Phone:** +1-813-590-3725
 
-## 📁 Folder Structure
 
-```bash
-├── index.html        # Main HTML file for portfolio
-├── style.css         # Custom CSS styling
-├── Mohan_Resume.pdf  # Resume file (optional)
-├── README.md         # You are here
-```
 
 > Feel free to fork, connect, or reach out for EDI/API consulting, development roles, or technical discussions.
