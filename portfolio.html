@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mohan G - Portfolio</title>
+  <style>
+    /* Basic Reset */
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+      line-height: 1.6;
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    header {
+      text-align: center;
+      padding-bottom: 20px;
+      border-bottom: 2px solid #4a90e2;
+      margin-bottom: 30px;
+    }
+
+    header h1 {
+      font-size: 2.8rem;
+      color: #1a1a1a;
+      margin-bottom: 8px;
+    }
+
+    header p {
+      font-size: 1rem;
+      color: #555;
+      letter-spacing: 1px;
+    }
+
+    section {
+      margin-bottom: 30px;
+    }
+
+    h2 {
+      border-bottom: 2px solid #4a90e2;
+      color: #4a90e2;
+      margin-bottom: 12px;
+      padding-bottom: 4px;
+      font-weight: 600;
+    }
+
+    ul {
+      list-style-type: disc;
+      margin-left: 20px;
+      margin-top: 10px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .experience-item, .project-item {
+      margin-bottom: 20px;
+    }
+
+    .job-title {
+      font-weight: 700;
+      font-size: 1.1rem;
+      color: #222;
+    }
+
+    .company {
+      font-style: italic;
+      color: #666;
+    }
+
+    .date {
+      float: right;
+      color: #888;
+      font-size: 0.9rem;
+    }
+
+    .clear {
+      clear: both;
+    }
+
+    /* Responsive */
+    @media (max-width: 600px) {
+      body {
+        padding: 15px;
+      }
+
+      header h1 {
+        font-size: 2rem;
+      }
+
+      .date {
+        float: none;
+        display: block;
+        margin-top: 3px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Mohan G</h1>
+    <p>Email: mohanganapaneni9999@example.com | Phone: (813) 590 3725 | Location: Jacksonville, FL</p>
+    <p>LinkedIn: https://www.linkedin.com/in/mohan-ganapaneni-b92916183/</p>
+  </header>
+
+  <section>
+    <h2>Summary</h2>
+    <p>
+      Experienced EDI Specialist with over 4 years in B2B integration, Sterling Integrator, and healthcare & retail EDI projects.
+      Skilled in X12, EDIFACT, AS2, SFTP protocols, and strong knowledge of data mapping and integration tools.
+      Proven ability to manage multiple trading partner relationships and deliver solutions meeting business needs.
+    </p>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>EDI Standards: ANSI X12, EDIFACT</li>
+      <li>Protocols: AS2, SFTP, FTP</li>
+      <li>Tools: IBM Sterling B2B Integrator, EDIFECS SpecBuilder & XESuite</li>
+      <li>Languages: XML, JSON, SQL, Shell Scripting</li>
+      <li>ERP: SAP IDocs, Microsoft Dynamics NAV & Business Central</li>
+      <li>Data Mapping & Transformation, Troubleshooting & Support</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Experience</h2>
+
+    <div class="experience-item">
+      <span class="job-title">Senior EDI Developer / API Integration Analyst</span>
+      <span class="company"> — CCSIT (Retail & Logistics)</span>
+      <span class="date">Feb 2023 – Present</span>
+      <div class="clear"></div>
+      <ul>
+        <li>Led onboarding and integration of retail trading partners using IBM Sterling B2B Integrator.</li>
+        <li>Developed and maintained EDI maps for transaction sets like 850, 856, 810, and 940.</li>
+        <li>Handled AS2 and SFTP communication protocols and ensured timely data exchanges.</li>
+        <li>Collaborated with SAP teams for smooth SAP IDoc and EDI data synchronization.</li>
+      </ul>
+    </div>
+
+    <div class="experience-item">
+      <span class="job-title">EDI Analyst</span>
+      <span class="company"> — Zensar technologies (Healthcare)</span>
+      <span class="date">Jun 2020 – Jul 2021</span>
+      <div class="clear"></div>
+      <ul>
+        <li>Managed healthcare EDI transactions (837, 834, 270/271, 276/277) ensuring HIPAA compliance.</li>
+        <li>Performed testing and troubleshooting of data exchange using EDIFECS SpecBuilder and XESuite.</li>
+        <li>Onboarded new trading partners and improved secure communication protocols like AS2 and SFTP.</li>
+      </ul>
+    </div>
+
+    <div class="experience-item">
+      <span class="job-title">Associate EDI coordinator</span>
+      <span class="company"> — KPIT (Retail & Manufacturing)</span>
+      <span class="date">Jan 2017 – May 2020</span>
+      <div class="clear"></div>
+      <ul>
+        <li>Developed and supported EDI solutions using IBM Sterling Integrator for retail purchase orders and invoices.</li>
+        <li>Worked on X12 transactions 850, 855, 856, 810 with cross-functional ERP teams.</li>
+        <li>Handled multiple protocols including AS2, SFTP, and FTP ensuring 99.9% uptime in communication.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <p>Bachelor of Science in Computer Science</p>
+    <p>KL University , India</p>
+    <p>Graduated: 2020</p>
+    <p>Master of Science in Computer Science</p>
+    <p>University of north texas , TX</p>
+    <p>Graduated: 2023</p>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+
+    <div class="project-item">
+      <strong>EDI Onboarding Automation</strong>
+      <p>Automated onboarding process for new trading partners using Sterling Integrator, reducing setup time by 30%.</p>
+    </div>
+
+    <div class="project-item">
+      <strong>Healthcare Claims Integration</strong>
+      <p>Implemented EDI 837 and 835 claims processing for WellSpan Health using EDIFECS tools, ensuring HIPAA compliance.</p>
+    </div>
+    <div class=API conversion from"XML to JSON" >
+      <strong>WEB interface using HTML</strong>
+      <p>built an API interface using HTML and python code, utilized services and got the expected output ex: gave an xml sample input file and got JSON as an output</p>
+    </div>
+
+  </section>
+</body>
+</html>
