@@ -16,7 +16,8 @@ This portfolio showcases my technical expertise in ANSI X12 (834/837), EDIFACT, 
 
 ## 🔗 Live Website
 
-👉 Visit My Portfolio : https://www.linkedin.com/in/mohan-ganapaneni-b92916183/edit/forms/contact-info/new/?profileFormEntryPoint=PROFILE_TOP_CARD_EDIT_FORM
+👉 Visit My Portfolio : file:///C:/Users/19714/Downloads/Mohan_Resume_Portfolio/portfolio.html
+                         (or) view the portfolio file
 
 ## 📄 Resume
 
